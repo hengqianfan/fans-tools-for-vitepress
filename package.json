@@ -1,0 +1,20 @@
+{
+  "name": "fans-tools-for-vitepress",
+  "version": "0.0.9",
+  "description": "增强 vitepress 的函数库",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hengqianfan/fans-tools-for-vitepress"
+  },
+  "bugs": "https://github.com/hengqianfan/fans-tools-for-vitepress/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vitepress",
+    "fans-tools"
+  ],
+  "author": "hengqianfan",
+  "license": "ISC"
+}
